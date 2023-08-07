@@ -32,10 +32,6 @@ Server Side:
 
 - When addItem or markItem is triggered, write to the MongoDB database.
 
->
-> Note:
->
-> This way of handling real-time data using redux-thunk may be okay for a small app which doesn’t require lot of complexities. But I would encourage you to go through how to use redux-observables and RxJS, if you plan to build a real time app to handle multiple observables and to chain/merge them.
 
 # How to run this app
 
