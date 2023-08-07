@@ -22,6 +22,8 @@ Client Side:
 
 - When changes happen (add or mark completion), use thunk action to dispatch the socket communication.
 
+- When receiving message from server, use dispatch action to modify the Redux state.
+
 Server Side:
 
 - When the client first connected, set up disconnect, addItem, markItem channel.
