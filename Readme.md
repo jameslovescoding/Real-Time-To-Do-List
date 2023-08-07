@@ -75,3 +75,5 @@ yarn start
 ```
 
 ### Original Article
+
+[Using socket.io in React-Redux app to handle real-time data - Gethyl George Kurian](https://medium.com/@gethylgeorge/using-socket-io-in-react-redux-app-to-handle-real-time-data-c0e734297795)
