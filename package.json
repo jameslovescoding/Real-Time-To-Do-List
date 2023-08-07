@@ -19,7 +19,7 @@
     "http": "^0.0.0",
     "immutable": "^3.8.1",
     "material-ui": "^0.17.0",
-    "mongoose": "^4.8.1",
+    "mongoose": "^7.4.2",
     "mongoose-auto-increment": "^5.0.1",
     "nodemon": "^1.11.0",
     "react": "^15.4.1",
@@ -37,7 +37,5 @@
     "webpack": "^1.14.0",
     "webpack-dev-server": "^1.16.2"
   },
-  "devDependencies": {
-  
-  }
+  "devDependencies": {}
 }
